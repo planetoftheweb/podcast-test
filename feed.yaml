@@ -1,4 +1,4 @@
-title: The Future in Tech
+title: The Future in Tech -
 subtitle: Powered by LinkedIn Learning
 author: Ray Villalobos
 description: Conversations with leaders building next generation techology tools.
